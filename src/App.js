@@ -91,17 +91,17 @@ function App() {
           person.title.includes("Developer")
         ));
         break;
-      case "New York":
+      case "Seattle":
         setTeam([...teamArray].filter(person =>
           person.location.includes("New York")
         ));
         break;
-      case "Las Vegas":
+      case "California":
         setTeam([...teamArray].filter(person =>
           person.location.includes("Las Vegas")
         ));
         break;
-      case "Chicago":
+      case "Arizona":
         setTeam([...teamArray].filter(person =>
           person.location.includes("Chicago")
         ));

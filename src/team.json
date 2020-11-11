@@ -1,110 +1,74 @@
 [
     {
         "id": 1,
-        "name": "richard stevens",
+        "name": "Moses Kamara",
         "title": "Manager",
-        "location": "New York",
-        "phone": "(516) 555–1234",
-        "email": "rstevens@digidigits.com",
-        "img": "https://raw.githubusercontent.com/GedalyaKrycer/unit-19-react-homework-employee-directory/master/my-app/src/img/richard-stevens-img.png"
+        "location": "Seattle",
+        "phone": "(206) 555-5555",
+        "email": "mkamara@ktech.io",
+        "img": "src/img/Moses.jpg"
     },
     {
         "id": 2,
-        "name": "jocelyn curtis",
+        "name": "Anh Nguyen",
         "title": "Designer",
-        "location": "Chicago",
-        "phone": "(312) 555–5678",
-        "email": "jcurtis@digidigits.com",
-        "img": "https://raw.githubusercontent.com/GedalyaKrycer/unit-19-react-homework-employee-directory/master/my-app/src/img/jocelyn-curtis-img.png"
+        "location": "California",
+        "phone": "(213) 000-0000",
+        "email": "anguyen@ktech.io",
+        "img": "https://github.com/kamara-moses/UserDirectory/blob/main/src/img/jakob-philips-img.png?raw=true"
     },
     {
         "id": 3,
-        "name": "nolan lipshutz",
+        "name": "Dan Seese",
         "title": "Manager",
-        "location": "Las Vegas",
-        "phone": "(702) 555–9101",
-        "email": "nlipshutz@digidigits.com",
-        "img": "https://raw.githubusercontent.com/GedalyaKrycer/unit-19-react-homework-employee-directory/master/my-app/src/img/nolan-lipshutz-img.png"
+        "location": "Arizona",
+        "phone": "(702) 333-5555",
+        "email": "dseese@ktech.com",
+        "img": ""
     },
     {
         "id": 4,
-        "name": "jakob philips",
+        "name": "Donny Chromy",
         "title": "Designer",
-        "location": "Texas",
-        "phone": "(214) 555–1213",
-        "email": "jphilips@digidigits.com",
-        "img": "https://raw.githubusercontent.com/GedalyaKrycer/unit-19-react-homework-employee-directory/master/my-app/src/img/jakob-philips-img.png"
+        "location": "Seattle",
+        "phone": "(206) 555–1200",
+        "email": "dchromy@ktech.io",
+        "img": ""
     },
     {
         "id": 5,
-        "name": "lincoln aminoff",
+        "name": "Douglas Mitchell",
         "title": "Designer",
-        "location": "Chicago",
-        "phone": "(312) 555–1516",
-        "email": "laminoff@digidigits.com",
-        "img": "https://raw.githubusercontent.com/GedalyaKrycer/unit-19-react-homework-employee-directory/master/my-app/src/img/lincoln-aminoff-img.png"
+        "location": "California",
+        "phone": "(213) 555–1500",
+        "email": "dmitchell@ktech.io",
+        "img": ""
     },
     {
         "id": 6,
-        "name": "rayna carder",
+        "name": "Jonathan Bower",
         "title": "Developer",
-        "location": "Texas",
-        "phone": "(214) 555–1718",
-        "email": "rcarder@digidigits.com",
-        "img": "https://raw.githubusercontent.com/GedalyaKrycer/unit-19-react-homework-employee-directory/master/my-app/src/img/rayna-carder-img.png"
+        "location": "Arizona",
+        "phone": "(214) 555–1798",
+        "email": "jbower@ktech.io",
+        "img": ""
     },
     {
         "id": 7,
-        "name": "carter gouse",
+        "name": "Brian Teacher",
         "title": "Manager",
-        "location": "Las Vegas",
-        "phone": "(702) 555–1920",
-        "email": "cgouse@digidigits.com",
-        "img": "https://raw.githubusercontent.com/GedalyaKrycer/unit-19-react-homework-employee-directory/master/my-app/src/img/carter-gouse-img.png"
+        "location": "Seattle",
+        "phone": "(206) 555–1920",
+        "email": "bteacher@ktech.io",
+        "img": ""
     },
     {
         "id": 8,
-        "name": "desirae westervelt",
+        "name": "Jason Lawrence",
         "title": "Developer",
-        "location": "New York",
-        "phone": "(516) 555–2122",
-        "email": "dwestervelt@digidigits.com",
-        "img": "https://raw.githubusercontent.com/GedalyaKrycer/unit-19-react-homework-employee-directory/master/my-app/src/img/desirae-westervelt-img.png"
-    },
-    {
-        "id": 9,
-        "name": "kierra george",
-        "title": "Developer",
-        "location": "Las Vegas",
-        "phone": "(702) 555–2324",
-        "email": "kgeorge@digidigits.com",
-        "img": "https://raw.githubusercontent.com/GedalyaKrycer/unit-19-react-homework-employee-directory/master/my-app/src/img/kierra-george-img.png"
-    },
-    {
-        "id": 10,
-        "name": "roger mango",
-        "title": "Manager",
-        "location": "Chicago",
-        "phone": "(312) 555–2526",
-        "email": "rmango@digidigits.com",
-        "img": "https://raw.githubusercontent.com/GedalyaKrycer/unit-19-react-homework-employee-directory/master/my-app/src/img/roger-mango-img.png"
-    },
-    {
-        "id": 11,
-        "name": "ashlynn saris",
-        "title": "Developer",
-        "location": "Texas",
-        "phone": "(214) 555–2728",
-        "email": "asaris@digidigits.com",
-        "img": "https://raw.githubusercontent.com/GedalyaKrycer/unit-19-react-homework-employee-directory/master/my-app/src/img/ashlynn-saris-img.png"
-    },
-    {
-        "id": 12,
-        "name": "miracle geidt",
-        "title": "Developer",
-        "location": "New York",
-        "phone": "(516) 555–2930",
-        "email": "mgeidt@digidigits.com",
-        "img": "https://raw.githubusercontent.com/GedalyaKrycer/unit-19-react-homework-employee-directory/master/my-app/src/img/miracle-geidt-img.png"
+        "location": "California",
+        "phone": "(707) 555–2122",
+        "email": "jlawrence@ktech.io",
+        "img": ""
     }
 ]
