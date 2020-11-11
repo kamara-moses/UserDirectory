@@ -18,9 +18,9 @@ function FilterBtnGroup({ sortBtn, resetBtn, children, handleSelectDropdown }) {
             </DropdownButton>
 
             <DropdownButton as={ButtonGroup} title="Location" id="bg-nested-dropdown" onSelect={handleSelectDropdown}>
-                <Dropdown.Item eventKey="New York">New York</Dropdown.Item>
-                <Dropdown.Item eventKey="Las Vegas">Las Vegas</Dropdown.Item>
-                <Dropdown.Item eventKey="Chicago">Chicago</Dropdown.Item>
+                <Dropdown.Item eventKey="New York">Seattle</Dropdown.Item>
+                <Dropdown.Item eventKey="Las Vegas">California</Dropdown.Item>
+                <Dropdown.Item eventKey="Chicago">Arizona</Dropdown.Item>
             </DropdownButton>
             <Button onClick={resetBtn}>Reset</Button>
         </ButtonGroup>
