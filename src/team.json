@@ -6,7 +6,7 @@
         "location": "Seattle",
         "phone": "(206) 555-5555",
         "email": "mkamara@ktech.io",
-        "img": "src/img/Moses.jpg"
+        "img": "https://github.com/kamara-moses/UserDirectory/blob/main/src/img/moseskamara.png?raw=true"
     },
     {
         "id": 2,
@@ -15,7 +15,7 @@
         "location": "California",
         "phone": "(213) 000-0000",
         "email": "anguyen@ktech.io",
-        "img": "https://github.com/kamara-moses/UserDirectory/blob/main/src/img/anhnguyen.png?raw=true"
+        "img": "https://github.com/kamara-moses/UserDirectory/blob/main/src/img/angnguyen.png?raw=true"
     },
     {
         "id": 3,
@@ -24,7 +24,7 @@
         "location": "Arizona",
         "phone": "(702) 333-5555",
         "email": "dseese@ktech.com",
-        "img": ""
+        "img": "https://github.com/kamara-moses/UserDirectory/blob/main/src/img/douglasmitchell.png?raw=true"
     },
     {
         "id": 4,
@@ -33,7 +33,7 @@
         "location": "Seattle",
         "phone": "(206) 555–1200",
         "email": "dchromy@ktech.io",
-        "img": "https://github.com/kamara-moses/UserDirectory/blob/main/src/img/nolan-lipshutz-img.png?raw=true"
+        "img": "https://github.com/kamara-moses/UserDirectory/blob/main/src/img/donnychromy.png?raw=true"
     },
     {
         "id": 5,
@@ -42,7 +42,7 @@
         "location": "California",
         "phone": "(213) 555–1500",
         "email": "dmitchell@ktech.io",
-        "img": ""
+        "img": "https://github.com/kamara-moses/UserDirectory/blob/main/src/img/douglasmitchell.png?raw=true"
     },
     {
         "id": 6,
@@ -51,7 +51,7 @@
         "location": "Arizona",
         "phone": "(214) 555–1798",
         "email": "jbower@ktech.io",
-        "img": ""
+        "img": "https://github.com/kamara-moses/UserDirectory/blob/main/src/img/donnychromy.png?raw=true"
     },
     {
         "id": 7,
@@ -60,7 +60,7 @@
         "location": "Seattle",
         "phone": "(206) 555–1920",
         "email": "bteacher@ktech.io",
-        "img": "https://github.com/kamara-moses/UserDirectory/blob/main/src/img/brian.png?raw=true"
+        "img": "https://github.com/kamara-moses/UserDirectory/blob/main/src/img/brianteacher.png?raw=true"
     },
     {
         "id": 8,
