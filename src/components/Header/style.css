@@ -1,0 +1,13 @@
+.header {
+    background-color: #fff;
+ }
+ 
+ .github-icon {
+     font-size: 30px;
+     color: rgb(0, 0, 0);
+ }
+ 
+ .github-icon:hover {
+     opacity: .5;
+     transition: ease-in .2s;
+ }
