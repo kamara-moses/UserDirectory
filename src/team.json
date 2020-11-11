@@ -15,7 +15,7 @@
         "location": "California",
         "phone": "(213) 000-0000",
         "email": "anguyen@ktech.io",
-        "img": "https://github.com/kamara-moses/UserDirectory/blob/main/src/img/jakob-philips-img.png?raw=true"
+        "img": "https://github.com/kamara-moses/UserDirectory/blob/main/src/img/anhnguyen.png?raw=true"
     },
     {
         "id": 3,
@@ -33,7 +33,7 @@
         "location": "Seattle",
         "phone": "(206) 555–1200",
         "email": "dchromy@ktech.io",
-        "img": ""
+        "img": "https://github.com/kamara-moses/UserDirectory/blob/main/src/img/nolan-lipshutz-img.png?raw=true"
     },
     {
         "id": 5,
@@ -60,7 +60,7 @@
         "location": "Seattle",
         "phone": "(206) 555–1920",
         "email": "bteacher@ktech.io",
-        "img": ""
+        "img": "https://github.com/kamara-moses/UserDirectory/blob/main/src/img/brian.png?raw=true"
     },
     {
         "id": 8,
@@ -69,6 +69,6 @@
         "location": "California",
         "phone": "(707) 555–2122",
         "email": "jlawrence@ktech.io",
-        "img": ""
+        "img": "https://github.com/kamara-moses/UserDirectory/blob/main/src/img/roger-mango-img.png?raw=true"
     }
 ]
