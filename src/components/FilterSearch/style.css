@@ -4,6 +4,7 @@
   
   .form-control {
     padding: 22px 0 22px 2.5rem;
+    margin-top: 20px;
   }
   
   .has-search .form-control-feedback {
@@ -16,6 +17,7 @@
     text-align: center;
     pointer-events: none;
     color: rgb(0, 0, 0);
+    margin-top: 20px;
   }
   
   .search-input {
