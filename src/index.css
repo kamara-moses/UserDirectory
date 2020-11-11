@@ -38,27 +38,17 @@ a {
 
 a:hover {
   text-decoration: none;
-  color: #4CE0D2;
+  color: rgb(241, 174, 129);
   transition: ease .5s;
 }
 
 /* Colors */
-/* .bg-color {
-  background-color: #ffffff;
-}
-.bg-lighter-color {
-  background-color: rgb(255, 255, 255);
-}
-.bg-lightest-color {
-  background-color: #ffffff;
-} */
 .text-color {
   color: rgb(0, 0, 0);
 }
 .interactive-color {
   color: rgb(0, 0, 0);
 }
-
 
 /* —————————————————————————————————————————————
 MEDIA QUERIES 
